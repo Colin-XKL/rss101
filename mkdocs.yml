@@ -1,17 +1,59 @@
 site_name: RSS101
+language: zh
 theme:
   name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: teal
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
     - toc.follow
+    - toc.integrate 
+    - content.code.copy
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+
+  
 nav:
   - Home: 'index.md'
   - "起步": "introduction/introduction.md"
   - "发现订阅源": "find-feed/find-feed.md"
   - "阅读RSS": "read-feed/read-feed.md"
-  - "DIY 订阅源": "make-feed/make-feed.md"
+  - RSSMan: 
+    - "RSSMAN 介绍": "deploy/rssman.md"
+    - "完整流程": "deploy/rssman-full-guide.md"
+  - "DIY 订阅源": 
+    - "概述": "make-feed/make-feed.md"
+    - "Huginn": "make-feed/huginn.md"
+  - "进阶":
+    - "概述": "advance/advance.md"
   - About: 'about/about.md'
