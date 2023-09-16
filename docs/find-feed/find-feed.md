@@ -23,3 +23,9 @@ RSSHub 官方的文档会写明各类支持的网站以及对应的订阅方式�
 
 [RSSHub](https://docs.rsshub.app/) 是个很赞的项目，它聚集了众多 RSS 爱好者来为现代的网站构建 RSS 订阅源。众所周知，网站提供 RSS 并不能为他的站点带来更高的收入，反而会减少主站的访客数。借助 RSSHub 可以方便地通过 RSS 订阅知乎、豆瓣、Facebook 等现代媒体社交平台。
 
+
+## RSS 链接预览 
+
+Firefox 推荐：[RSSPreview](https://addons.mozilla.org/zh-CN/firefox/addon/rsspreview/)
+
+

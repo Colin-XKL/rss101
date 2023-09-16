@@ -46,8 +46,17 @@ markdown_extensions:
 nav:
   - Home: 'index.md'
   - "起步": "introduction/introduction.md"
-  - "发现订阅源": "find-feed/find-feed.md"
-  - "阅读RSS": "read-feed/read-feed.md"
+  - "发现订阅源": 
+    - "如何寻找订阅源": "find-feed/find-feed.md"
+    - "订阅源合集与推荐": "find-feed/recommend.md"
+  - "阅读RSS": 
+    - "RSS阅读器概述": "read-feed/read-feed.md"
+    - "网页端的 RSS 阅读器": "read-feed/reader-for-web.md"
+    - "Mac 上的 RSS 阅读器": "read-feed/reader-for-mac.md"
+    - "iOS 上的 RSS 阅读器": "read-feed/reader-for-ios.md"
+    - "Win 上的 RSS 阅读器": "read-feed/reader-for-win.md"
+    - "Android 上的 RSS 阅读器": "read-feed/reader-for-android.md"
+    - "Linux 上的 RSS 阅读器": "read-feed/reader-for-linux.md"
   - RSSMan: 
     - "RSSMAN 介绍": "deploy/rssman.md"
     - "完整流程": "deploy/rssman-full-guide.md"
