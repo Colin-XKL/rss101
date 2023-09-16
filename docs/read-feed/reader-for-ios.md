@@ -1,5 +1,5 @@
 ## Reeder 
-Reeder 向来被誉为苹果生态圈内最佳 RSS 阅读器。 支持Mac 和 iOS
+:star: Reeder 向来被誉为苹果生态圈内最佳 RSS 阅读器。 支持Mac 和 iOS。不过为付费买断制，新的大版本发布后上一个版本会免费。
 
 关联阅读
 

@@ -1,26 +1,29 @@
 
 
 ## TTRSS (Tiny Tiny RSS)
-老牌 RSS 阅读器，主要是 Web 端，免费开源，支持自部署。
+:star: 老牌 RSS 阅读器，主要是 Web 端，免费开源，支持自部署。
 
 可以通过插件转换成其他的 API 比如 Fever，这样可以在手机端通过 Reeder 或者 FeedMe 进行查看
 
 ## InoReader
-官网：www.inoreader.com
-平台：Android，iOS，Web
-最优秀的安卓端 RSS 阅读器！界面整齐清爽，功能齐全，对国内外源支持都很好。
+官网：[www.inoreader.com](www.inoreader.com)  
+平台：Android，iOS，Web  
+界面整齐清爽，功能齐全，对国内外源支持都很好。  
+
+免费版150个 feed  
+Pro 版无限 feed $9.99/month
 
 ## FreshRSS
 
-Fresh RSS 是一个热门的Web 端 RSS 阅读器，免费开源，支持自部署。轻量，易用，高度可定制
+:star: Fresh RSS 是一个热门的Web 端 RSS 阅读器，免费开源，支持自部署。轻量，易用，高度可定制
 
 https://github.com/FreshRSS/FreshRSS
 
 ## Miniflux
 
-Miniflux 是一个极度简约的基于 Web 的 RSS 阅读器
+Miniflux 是一个极度简约的基于 Web 的 RSS 阅读器  
 
-https://miniflux.app/
+https://miniflux.app/ 
 
 https://github.com/miniflux/v2
 
