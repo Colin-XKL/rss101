@@ -1,5 +1,9 @@
 site_name: RSS101
 language: zh
+repo_url: https://github.com/Colin-XKL/rss101
+repo_name: Colin-XKL/rss101
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   palette:
@@ -8,14 +12,14 @@ theme:
       primary: teal
       scheme: default
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-sunny
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: teal
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
         name: Switch to light mode
   features:
     - navigation.instant
@@ -28,7 +32,13 @@ theme:
     - toc.follow
     - toc.integrate 
     - content.code.copy
+    - content.action.edit
+
 markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
