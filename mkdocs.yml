@@ -8,3 +8,10 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - toc.follow
+nav:
+  - Home: 'index.md'
+  - "起步": "introduction/introduction.md"
+  - "发现订阅源": "find-feed/find-feed.md"
+  - "阅读RSS": "read-feed/read-feed.md"
+  - "DIY 订阅源": "make-feed/make-feed.md"
+  - About: 'about/about.md'
