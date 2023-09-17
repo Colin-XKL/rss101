@@ -6,7 +6,7 @@
 可以通过插件转换成其他的 API 比如 Fever，这样可以在手机端通过 Reeder 或者 FeedMe 进行查看
 
 ## InoReader
-官网：[www.inoreader.com](www.inoreader.com)  
+官网：[www.inoreader.com](https://swww.inoreader.com)  
 平台：Android，iOS，Web  
 界面整齐清爽，功能齐全，对国内外源支持都很好。  
 

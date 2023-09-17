@@ -1,11 +1,11 @@
 site_name: RSS101
-language: zh
 repo_url: https://github.com/Colin-XKL/rss101
 repo_name: Colin-XKL/rss101
 edit_uri: edit/main/docs/
 
 theme:
   name: material
+  language: zh
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -68,6 +68,7 @@ nav:
     - "Android 上的 RSS 阅读器": "read-feed/reader-for-android.md"
     - "Linux 上的 RSS 阅读器": "read-feed/reader-for-linux.md"
   - RSSMan: 
+    - "概述": "deploy/deploy.md"
     - "RSSMAN 介绍": "deploy/rssman.md"
     - "完整流程": "deploy/rssman-full-guide.md"
   - "DIY 订阅源": 

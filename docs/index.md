@@ -1,17 +1,29 @@
-# Welcome to MkDocs
+# Welcome to RSS101
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## RSS 是什么
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+RSS 是一种简单的订阅信息内容的协议。 **关键词：简单，订阅信息。**
 
-## Project layout
+:star: 你可以根据自己的兴趣或需要订阅特定站点或主题的内容，没有无尽的算法推荐流。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+:star: 你可以使用任何你喜欢的阅读器去阅览、存档你订阅的文章，所有你订阅的文章都会集合在同一个地方，不需要来回切换软件，没有各种广告和推广的干扰。
+
+
+## RSS101 这个站点是做什么的
+
+RSS 从入门小白到骨灰级玩家。
+
+规划的板块：  
+
+- RSS 使用机制说明
+- 优质信息源收集与推荐
+- 各平台 RSS 阅读器评测与推荐
+- 为任意网站 DIY 订阅源
+- RSS 订阅管理与阅读 自部署解决方案
+- RSS 与 文章稍后读，持久存档，知识沉淀等高阶使用
+
+
+RSS101 不仅仅是一个 RSS 的 wiki，我们也希望 ta 是一个
+- 一个讨论和分享各种信息、资料收集整理，知识沉淀方法论的wiki
+- 一个交流掌控自己的赛博数字生活的社区
