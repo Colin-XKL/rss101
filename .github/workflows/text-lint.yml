@@ -1,0 +1,30 @@
+name: Check and correct text
+
+on:
+  push:
+    branches: [master]
+  # pull_request:
+    # branches: [master]
+
+jobs:
+  check-and-lint-text:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: huacnlee.autocorrect
+        uses: huacnlee/autocorrect-action@v2.8.4
+        with:
+          args: --fix
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: lint text and auto correct"
+          title: "Text lint and fix"
+          labels: "Lint"
+          author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+          branch: "text-lint"
+          body: "Some words and sentences need to be updated."
