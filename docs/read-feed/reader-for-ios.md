@@ -1,3 +1,5 @@
+iOS上好用且好看的 RSS 阅读器有很多，但是很多国区无法下载。这个具体选择的时候需要注意。如果追求体验可以选择注册一个美区账号。
+
 ## Reeder 
 :star: Reeder 向来被誉为苹果生态圈内最佳 RSS 阅读器。 支持Mac 和 iOS。不过为付费买断制，新的大版本发布后上一个版本会免费。
 
@@ -6,11 +8,19 @@
 - [一切只为给你更好的阅读体验，老牌 RSS 阅读器 Reeder 更新 4.0](https://sspai.com/post/54241)
 - [Reeder 4 仍是最好的 RSS 客户端吗？| Power+ 测评](https://sspai.com/post/54294)
 
+## ReadBot
+国内开发者的作品，基于 Flutter 开发，简单清爽，支持全文提取和 AI 摘要。在国内 App Store 可以直接下载。 [链接](https://apps.apple.com/us/app/readbot/id6449085999)
+
+可以通过浏览器同名插件(ReadBot)进行 RSS 订阅，更方便。目前在 Chrome 和 Edge 已经上架。
+
+支持同步Cubox，当用户点击收藏的时候，会自动将收藏的链接同步到 Cubox ，如果有识别出来的关键词，可以将关键词同步为标签
+
 
 ## InoReader
+
 官网：www.inoreader.com
 平台：Android，iOS，Web
-最优秀的安卓端 RSS 阅读器！界面整齐清爽，功能齐全，对国内外源支持都很好。
+界面整齐清爽，功能齐全，对国内外源支持都很好。
 
 
 
