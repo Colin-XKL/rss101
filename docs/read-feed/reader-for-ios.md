@@ -32,6 +32,15 @@ https://netnewswire.com/
 
 https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210
 
+
+## Lire
+
+一款设计精美的 RSS 与稍后度工具，支持 Mac 与 iOS 平台，支持对接多个后端服务，包括 FreshRSS，Tiny Tiny RSS, Miniflux.    https://lireapp.com/
+iOS 平台链接：  $9.99  
+http://itunes.apple.com/app/lire/id1531976425?ls=1&mt=8
+
+
+
 ## ReadKit
 RSS和稍后读工具，支持 iPhone， iPad， Mac。 目前活跃更新中，国区 Mac Store 可下载。但是不带原生中文支持
 
