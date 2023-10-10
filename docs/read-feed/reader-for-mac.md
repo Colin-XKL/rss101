@@ -36,6 +36,12 @@ https://github.com/hello-efficiency-inc/raven-reader
 
 https://github.com/martinrotter/rssguard
 
+## Lire
+
+一款设计精美的 RSS 与稍后度工具，支持 Mac 与 iOS 平台，支持对接多个后端服务，包括 FreshRSS，Tiny Tiny RSS, Miniflux.  
+Mac 平台链接：  （目前国区收费￥68）  
+https://apps.apple.com/us/app/lire/id1482527526?ls=1&mt=12
+
 
 ## ReadKit
 ReadKit 同样是一款「老字号」应用了。
